@@ -26,3 +26,5 @@ A model called CartItem.java was created to manage the cart activities.
 DBConnection.java is used to connect to the database all over the servlets. 
 
 Finally, styles.css is used to style the web pages. 
+
+https://github.com/user-attachments/assets/22cf41f5-71d7-402d-bbd8-02dedd20b66f
